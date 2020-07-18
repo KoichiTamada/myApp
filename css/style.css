@@ -1,0 +1,13 @@
+h1{
+    font-size: 40pt;
+    color: lightblue;
+}
+button{
+    font-size: 18pt;
+    border: none;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+}
